@@ -1,0 +1,14 @@
+{
+  "name": "KorPUBG",
+  "version": "0.0.1",
+  "description": "KorPUBG Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord-akairo": "^7.5.4",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.3"
+  }
+}
